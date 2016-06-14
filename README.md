@@ -31,8 +31,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-Here's the LINK TO GIF SHOWING APP: https://imgur.com/Ce3k85y
+Here's the LINK TO GIF SHOWING APP: 
 
+https://i.imgur.com/Ce3k85y.gif
 ## Notes
 
 Describe any challenges encountered while building the app.
